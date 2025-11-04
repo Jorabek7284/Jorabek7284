@@ -28,9 +28,9 @@ Men **Turgunpolatov Jorabek**, frontend yo‘nalishida o‘qiyotgan yosh dasturc
 ---
 
 ### 📬 Let's Connect!
-📱 **Telegram:** [@JorabekDev](https://t.me/JorabekDev)  
-✉️ **Email:** jorabek@example.com  
-💻 **GitHub:** [Jorabek](https://github.com/jorabek)  
+📱 **Telegram:** [@jorabek0123](https://t.me/jorabek0123)  
+✉️ **Email:** jorabekturgunpolatov480@gmail.com  
+💻 **GitHub:** [Jorabek7284](https://github.com/Jorabek7284)  
 
 ---
 
